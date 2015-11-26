@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13F1134" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Student" representedClassName="Student" syncable="YES">
+        <attribute name="imagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentCourse" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentDOB" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentFname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentGender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentId" attributeType="String" syncable="YES"/>
+        <attribute name="studentLname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitCode1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitCode2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitCode3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitCode4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitCode5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitGrade1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitGrade2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitGrade3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitGrade4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitGrade5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitName1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitName2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitName3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitName4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitName5" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Student" positionX="-63" positionY="-18" width="128" height="390"/>
+    </elements>
+</model>
